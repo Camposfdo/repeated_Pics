@@ -1,2 +1,2 @@
 # repeated_Pics
-Check repeated pics
+This is the new test
